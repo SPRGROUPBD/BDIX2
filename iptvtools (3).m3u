@@ -23,17 +23,17 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,iptvtools_31
 http://208.86.19.13:81/506.stream/index.m3u8
-#EXTINF:-1,iptvtools_32
+#EXTINF:-1,I TV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1,iptvtools_35
+#EXTINF:-1,Channal S
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1,khushboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
-#EXTINF:-1,iptvtools_41
+#EXTINF:-1,Movie Bangla  "logo": "https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png"
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,iptvtools_42
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1,iptvtools_43
+#EXTINF:-1,i b tv usa
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1,iptvtools_46
 http://208.86.19.13:81/519.stream/index.m3u8
@@ -43,9 +43,9 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,iptvtools_49
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1,iptvtools_50
+#EXTINF:-1,itv
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-#EXTINF:-1,iptvtools_51
+#EXTINF:-1,itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,iptvtools_52
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
